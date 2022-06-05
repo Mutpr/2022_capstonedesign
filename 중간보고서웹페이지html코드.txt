@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="intro_bg">
+        <div class="header">
+          <div class="searchArea">
+            <form>
+              <input type="search" placeholder="search">
+              <span>검색</span>
+            </form>
+          </div>
+          <ul class="nav">
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">커뮤니티</a></li>
+            <li><a href="#">마이페이지</a></li>
+            <li><a href="#">개발진</a></li>
+          </ul>
+        </div>
+        <div class="intro_text">
+          <h1>찾집 - 춘천 </h1>
+          <h4 class="contents1">관광지 추천, 기록, 후기를 확인할 수 있습니다</h4>
+        </div>
+      </div>
+      </div>
+      <!-- intro end-->
+      <ul class="amount">
+        <li>
+          <div>
+            <div class="contents1">관광지</div>
+            <div class="result">아이콘넣기</div>
+          </div>
+        </li>
+        <li>
+          <div>
+            <div class="contents1">식당</div>
+            <div class="result">아이콘넣기</div>
+          </div>
+        </li>
+        <li>
+          <div>
+            <div class="contents1">추천 피드</div>
+            <div class="result">아이콘넣기</div>
+          </div>
+        </li>
+        <li>
+            <div>
+              <div class="contents1">삭제고민중</div>
+              <div class="result">아이콘넣기</div>
+            </div>
+        </li>
+      </ul>
+      <!-- amount end -->
+
+      <div class="main_text0">
+        <h1>춘천시</h1>
+        <div class="contents1">다양한 사람들의 후기와 추천 정보를 확인하세요</div>
+        
+        <ul class="icons">
+          <li>
+            <div class="icon_img">
+              <img src="image/icon2.svg">
+            </div>
+            <div class="contents1_bold">오늘의 추천</div>
+            <div class="contents2">
+                핫 피드 게시글 넣을예정
+            </div>
+            <div class="more">
+              MORE
+            </div>
+          </li>
+
+          <li>
+            <div class="icon_img">
+              <img src="image/icon0.svg">
+            </div>
+            <div class="contents1_bold">오늘의 인기인</div>
+            <div class="contents2">
+                피드가 많은 사람을 추천해줘도 좋을듯
+            </div>
+            <div class="more">
+              MORE
+            </div>
+          </li>
+
+          <li>
+            <div class="icon_img">
+              <img src="image/icon1.svg">
+            </div>
+            <div class="contents1_bold">오늘의 추천 관광지</div>
+            <div class="contents2">
+                후기 많이 올라온 식당이나 관광지 넣는것도 좋을 듯
+            </div>
+            <div class="more">
+              MORE
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="main_text1">
+        <h1>커뮤니티</h1>
+        <div class="contents1">실제 후기를 만나볼 수 있습니다</div>
+        <div class="service">
+          <div class="food_photo">
+            <img src="image/food.png">
+          </div>
+          <div class="contents2">
+              <h2>닭갈비 맛집, 학곡리닭갈비</h2>
+              일단 이게 친절인지 아닌지는 모르겠는데 맛은 있음 - 소히 <br>
+              존맛탱인데 식당내부 개시끄러움 - 소히소히 <br>
+              알바생 매우 친절 굿굿 - 소히소히소히 <br><br>
+              
+              이런식으로 - 누구 <br>
+              후기글을 모아두면 - ㅇㅇ <br>
+              괜찮지않을까 - ㅇㅂㅇ <br>
+              고려중입니다 - ㅇ3ㅇ <br><br>
+              
+              옆으로 슬라이드기능을 넣어서 <br>
+              같은 방식으로 관광지 후기도 넣을까 고려중 <br>
+              ....  <br>
+              이외에 애니메이션 구상중 <br>
+          </div>
+        </div>
+      </div>
+
+      <div class="main_text2">
+        <ul>
+          <li>
+            <div><h1>개발진</h1></div>
+            <div>한림대학교 소프트웨어 캡스톤 졸업시켜조팀 </div>
+            <div class="more2">더 알아보기</div>
+          </li>
+          <li></li>
+        </ul>
+      </div>
+
+      <div class="footer">
+        <div>LOGO</div>
+        <div>
+          졸업시켜조 <br>
+          림대림대림림대 Fax/Tel. <br>
+          031 - 223 -2912~5 <br>
+          웹디자인
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
